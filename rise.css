@@ -1,0 +1,10 @@
+.reveal {
+    font-size: 200% !important;
+}
+
+.reveal .slides section {
+    height: auto;
+    text-align: left;
+    padding: 20px 40px;
+    top: 0 !important;
+}
